@@ -32,7 +32,7 @@ const std::string netplay_dolphin_ver = SCM_DESC_STR " Mac";
 const std::string netplay_dolphin_ver = SCM_DESC_STR " Lin";
 #endif
 
-const std::string scm_rev_git_str = SCM_REV_STR;
+const std::string scm_rev_git_str = "3eddb75d8e98bd6f23a20d02283fe834fc021225";
 const std::string scm_rev_cache_str = "201703210040";
 const std::string scm_desc_str = SCM_DESC_STR;
 const std::string scm_branch_str = SCM_BRANCH_STR;
